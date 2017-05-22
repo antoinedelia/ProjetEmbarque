@@ -1,4 +1,7 @@
 #include <Servo.h>
+#include <SharpIR.h>
+
+SharpIR sensor(GP2YA41SK0F, A3);
 
 int motor1_enablePin = 11; //pwm
 int motor1_in1Pin = 13;
@@ -13,6 +16,7 @@ int val;    // variable to read the value from the analog pin
  
 void setup()
 {
+  Serial.begin(9600);
   //on initialise les pins du moteur 1
   pinMode(motor1_in1Pin, OUTPUT);
   pinMode(motor1_in2Pin, OUTPUT);
@@ -29,16 +33,18 @@ void setup()
  
 void loop()
 {
-  val = 600;            // reads the value of the potentiometer (value between 0 and 1023)
+  int distance = sensor.getDistance(); //Calculate the distance in centimeters and store the value in a variable
+  /*val = 600;            // reads the value of the potentiometer (value between 0 and 1023)
   val = map(val, 0, 1023, 0, 180);     // scale it to use it with the servo (value between 0 and 180)
   myservo.write(val);                  // sets the servo position according to the scaled value
-  delay(3000); 
   val = map(0, 0, 1023, 0, 180);
-  myservo.write(val);
-  SetMotor1(500, true);
-  SetMotor2(500, true);
- 
- 
+  myservo.write(val);*/
+ SetMotor1(300, true);
+ SetMotor2(300, true);
+  if(distance <= 5){
+      SetMotor1(0, false);
+      SetMotor2(0, false);
+  }
 }
  
 //Fonction qui set le moteur1
