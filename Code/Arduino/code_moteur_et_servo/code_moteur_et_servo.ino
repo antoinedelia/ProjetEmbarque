@@ -45,12 +45,10 @@ void loop()
   val = map(0, 0, 1023, 0, 180);
   myservo.write(val);*/
   if(distance >= 5){
-     SetMotor1(500, true);
-     SetMotor2(500, true);
+    moveRobot(500,200,true,true);
   }
   else if(distance <= 5){
-      SetMotor1(0, false);
-      SetMotor2(0, false);
+      moveRobot(0,0,true,true);
  }
 
 }
@@ -62,6 +60,13 @@ void SetMotor1(int speed, boolean reverse)
   digitalWrite(motor1_in1Pin, reverse);
   digitalWrite(motor1_in2Pin, reverse);
 }
+
+void moveRobot(int speedMotor1, int speedMotor2, boolean reverseMotor1, boolean reverseMotor2 ){
+  SetMotor1(speedMotor1, reverseMotor1);
+  SetMotor2(speedMotor2, reverseMotor2);
+}
+
+
  
 //Fonction qui set le moteur2
 void SetMotor2(int speed, boolean reverse)
