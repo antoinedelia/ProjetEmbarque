@@ -41,10 +41,10 @@ void setup()
 void loop()
 {
  // ARDUINO MUST BE ON THE BACK
-  SetMotor2(175, true); // Devant gauche
   SetMotor1(255, false); // Devant droit
-  SetMotor4(175, true); // Derrière droit
+  SetMotor2(255, true); // Devant gauche
   SetMotor3(255, false); // Derrière gauche
+  SetMotor4(255, true); // Derrière droit
  
 }
  
