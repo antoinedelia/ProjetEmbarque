@@ -7,11 +7,14 @@
 int number = 0;
 int state = 0;
 
+int periode=20000;// période entre chaque début d'impulsion en microsecondes
+
+
 //pin motor : 
 int motor1_enablePin = 11; //pwm
 int motor1_in1Pin = 13;
 int motor1_in2Pin = 12;
- 
+
 int motor2_enablePin = 10; //pwm
 int motor2_in1Pin = 8;
 int motor2_in2Pin = 7;
@@ -26,9 +29,13 @@ int motor4_in2Pin = 4;
 
 SharpIR sensor(GP2YA41SK0F, A3);
 
-//int electroaimant = 6;
+int electroaimant = 0;
 
-Servo myservo;  // create servo object to control a servo
+int servoMagnetPin = 1;
+
+Servo servoMagnet;  // create servo object to control a servo
+int servoAngle = 0;
+
 int val;    // variable to read the value from the analog pin
 
 enum actions {
@@ -40,7 +47,8 @@ enum actions {
 };
 
 void setup() {
-  //pinMode(13, OUTPUT);
+  servoMagnet.attach(servoMagnetPin);
+  
   Serial.begin(9600); // start serial for output
   // initialize i2c as slave
   Wire.begin(SLAVE_ADDRESS);
@@ -50,7 +58,7 @@ void setup() {
   Wire.onRequest(sendData);
   
   Serial.println("Ready!");
-  //pinMode(electroaimant,OUTPUT);
+  pinMode(electroaimant,OUTPUT);
   
   //on initialise les pins du moteur 1
   pinMode(motor1_in1Pin, OUTPUT);
@@ -66,76 +74,96 @@ void setup() {
   pinMode(motor3_in1Pin, OUTPUT);
   pinMode(motor3_in2Pin, OUTPUT);
   pinMode(motor3_enablePin, OUTPUT);
- 
+  
   //on initialise les pins du moteur 4
   pinMode(motor4_in1Pin, OUTPUT);
   pinMode(motor4_in2Pin, OUTPUT);
   pinMode(motor4_enablePin, OUTPUT);
   
-  //myservo.attach(4);
 }
 
 void loop() {
-  //delay(100);
-  //int distance = sensor.getDistance(); //Calculate the distance in centimeters and store the value in a variable
-  int distance = 10;
-  if(distance > 5){
-    moveRobot(255, 255, 255, 255, false, true, false, false);
-    delay(5000);
-    turn90DegreesLeft(1);
-    turn90DegreesRight(1);
-  }
-  else if(distance <= 5){
-      turn90DegreesLeft(1);
-  }
-}
-
-void turn90DegreesLeft(int numberOfRotations){
-  for(int i=0; i<numberOfRotations; i++)
-  {
-    moveRobot(255, 175, 175, 255, false, false, true, false);
-    delay(5000);
-  }
-}
-
-void turn90DegreesRight(int numberOfRotations){
-  for(int i=0; i<numberOfRotations; i++)
-  {
-    moveRobot(255, 175, 175, 255, true, true, false, true);
-    delay(5000);
-  }
+  delay(100);
 }
 
 // callback for received data
 void receiveData(int byteCount){
+  // Clear buffer ?
   while(Wire.available()) {
     number = Wire.read();
-    Serial.print("data received:");
     Serial.println(number);
-
     switch (number) {
       case forward:
-        moveRobot(175, 175, 175, 175, false, true, false, false);
+        forwardRobot();
         break;
       case backward:
-        moveRobot(175, 175, 175, 175, true, false, true, true);
+        backwardRobot();
         break;
       case left:
-        turn90DegreesLeft(1);
+        leftRobot();
         break;
       case right:
-        turn90DegreesRight(1);
+        rightRobot(1);
         break;
       case stopping:
-        moveRobot(0, 0, 0, 0, true, true, true, true);
+        stopRobot();
         break;
       default:
-        
+        //int distance = sensor.getDistance(); //Calculate the distance in centimeters and store the value in a variable
+        int distance = 10;
+        if(distance > 5){
+          forwardRobot(); 
+          //ActivateMagnet();
+          rightRobot(8);
+        }
+        else if(distance <= 5){
+            rightRobot(2);
+        }
         break;
     }
   }
 }
 
+void ActivateMagnet()
+{
+  digitalWrite(electroaimant, HIGH);
+  delay(1000);
+  servoMagnet.write(90);
+  delay(1000);
+}
+
+void forwardRobot(){
+  moveRobot(255, 255, 255, 255, false, true, false, false);
+  delay(2000);
+  stopRobot();
+}
+
+void backwardRobot(){
+  moveRobot(255, 255, 255, 255, true, false, true, true);
+  delay(2000);
+  stopRobot();
+}
+
+void leftRobot(){
+  moveRobot(255, 255, 255, 255, false, false, true, false);
+  delay(1000);
+  stopRobot();
+}
+
+void rightRobot(int turns){
+  for(int i = 0; i < turns; i++)
+  {
+    moveRobot(255, 255, 255, 255, true, true, false, true);
+    delay(1000);
+    stopRobot();
+  }
+}
+
+void stopRobot()
+{
+  moveRobot(0, 0, 0, 0, true, true, false, true);
+  delay(1000);
+}
 
 void moveRobot(int speedMotorFrontRight, int speedMotorFrontLeft, int speedMotorBackLeft, int speedMotorBackRight, boolean reverseMotorFrontRight, boolean reverseMotorFrontLeft, boolean reverseMotorBackLeft, boolean reverseMotorBackRight){
   SetMotor1(speedMotorFrontRight, reverseMotorFrontRight);
