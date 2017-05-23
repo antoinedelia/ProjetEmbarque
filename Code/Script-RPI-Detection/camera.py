@@ -31,7 +31,7 @@ for frame in camera.capture_continuous(rawCapture, format="bgr", use_video_port=
 	hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
         
 	# define range of blue color in HSV
-        lower_blue = np.array([110,50,50])
+        lower_blue = np.array([150,150,50])
         upper_blue = np.array([130,255,255])
 
         # Threshold the HSV image to get only blue colors
@@ -49,7 +49,7 @@ for frame in camera.capture_continuous(rawCapture, format="bgr", use_video_port=
     
 	#Look for faces in the image using the loaded cascade file
 	#faces = face_cascade.detectMultiScale(face, 1.1, 5)
-        cans = can_cascade.detectMultiScale(can, 2, 5)
+        cans = can_cascade.detectMultiScale(can, 1.1, 5)
         
 	#print "Found "+str(len(faces))+" face(s)"
 	print "Found "+str(len(cans))+" can(s)"

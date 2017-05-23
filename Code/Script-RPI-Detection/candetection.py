@@ -1,11 +1,11 @@
 import cv2
 import numpy as np
 
-can_cascade = cv2.CascadeClassifier('can_cascade.xml')
+can_cascade = cv2.CascadeClassifier('cascade.xml')
 
-stream= cv2.Videocapture(0)
+stream= cv2.VideoCapture(0)
 
-while true:
+while True:
     ret, img = stream.read()
     gray=cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     cans = can_cascade.detectMultiScale(gray, 50, 50)
@@ -16,7 +16,8 @@ while true:
 
 
     cv2.imshow('img', img)
-    k=cv2.waitKey(1) &0xff
+    key=cv2.waitKey(1) &0xff
+
     if key == ord("q"):
 		breakcamera.resolution = (600, 400)
 		cv2.destroyAllWindows()
