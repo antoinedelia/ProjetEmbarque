@@ -27,6 +27,16 @@ int motor4_enablePin = 6; //pwm
 int motor4_in1Pin = 5;
 int motor4_in2Pin = 4;
 
+enum actions {
+  forward = 1,
+  backward = 2,
+  left = 3,
+  right = 4,
+  stopping = 5,
+  enableMagnet = 6,
+  disableMagnet = 7
+};
+
 SharpIR sensor(GP2YA41SK0F, A3);
 
 int electroaimant = 0;
@@ -38,20 +48,10 @@ int servoAngle = 0;
 
 int val;    // variable to read the value from the analog pin
 
-enum actions {
-  forward = 1,
-  backward = 2,
-  left = 3,
-  right = 4,
-  stopping = 5,
-  enableMagnet = 6,
-  disableMagnet = 7
-};
-
 void setup() {
   servoMagnet.attach(servoMagnetPin);
   
-  Serial.begin(9600); // start serial for output
+  //Serial.begin(9600); //Disable serial begins, otherwise pin 0 & 1 ALWAYS HIGH
   // initialize i2c as slave
   Wire.begin(SLAVE_ADDRESS);
   
@@ -60,7 +60,7 @@ void setup() {
   Wire.onRequest(sendData);
   
   Serial.println("Ready!");
-  pinMode(electroaimant,OUTPUT);
+  pinMode(electroaimant, OUTPUT);
   
   //on initialise les pins du moteur 1
   pinMode(motor1_in1Pin, OUTPUT);
@@ -117,7 +117,6 @@ void loop() {
         if(distance > 5){
           forwardRobot(); 
           //ActivateMagnet();
-          rightRobot(8);
         }
         else if(distance <= 5){
             rightRobot(2);
@@ -138,101 +137,6 @@ void receiveData(int byteCount){
     Serial.println(number);
   }
 }
-
-void ActivateMagnet()
-{
-  Serial.println("Activate magnet");
-  digitalWrite(electroaimant, HIGH);
-  servoMagnet.write(90);
-  delay(1000);
-}
-
-void DisableMagnet()
-{
-  Serial.println("Deactivate magnet");
-  digitalWrite(electroaimant, LOW);
-  servoMagnet.write(0);
-  delay(1000);
-}
-
-void forwardRobot(){
-  Serial.println("Move forward");
-  moveRobot(255, 255, 255, 255, false, true, false, false);
-  Serial.print("Millis : ");
-  Serial.println(millis());
-  delay(2000);
-  Serial.print("Millis 2 : ");
-  Serial.println(millis());
-  Serial.println("Stop robot");
-  stopRobot();
-}
-
-void backwardRobot(){
-  moveRobot(255, 255, 255, 255, true, false, true, true);
-  delay(2000);
-  stopRobot();
-}
-
-void leftRobot(){
-  moveRobot(255, 255, 255, 255, false, false, true, false);
-  delay(1000);
-  stopRobot();
-}
-
-void rightRobot(int turns){
-  for(int i = 0; i < turns; i++)
-  {
-    moveRobot(255, 255, 255, 255, true, true, false, true);
-    delay(1000);
-    stopRobot();
-  }
-}
-
-void stopRobot()
-{
-  moveRobot(0, 0, 0, 0, true, true, false, true);
-  delay(1000);
-}
-
-void moveRobot(int speedMotorFrontRight, int speedMotorFrontLeft, int speedMotorBackLeft, int speedMotorBackRight, boolean reverseMotorFrontRight, boolean reverseMotorFrontLeft, boolean reverseMotorBackLeft, boolean reverseMotorBackRight){
-  SetMotor1(speedMotorFrontRight, reverseMotorFrontRight);
-  SetMotor2(speedMotorFrontLeft, reverseMotorFrontLeft);
-  SetMotor3(speedMotorBackLeft, reverseMotorBackLeft);
-  SetMotor4(speedMotorBackRight, reverseMotorBackRight);
-}
-
-//Fonction qui set le moteur1
-void SetMotor1(int speed, boolean reverse)
-{
-  analogWrite(motor1_enablePin, speed);
-  digitalWrite(motor1_in1Pin, ! reverse);
-  digitalWrite(motor1_in2Pin, reverse);
-}
- 
-//Fonction qui set le moteur2
-void SetMotor2(int speed, boolean reverse)
-{
-  analogWrite(motor2_enablePin, speed);
-  digitalWrite(motor2_in1Pin, ! reverse);
-  digitalWrite(motor2_in2Pin, reverse);
-}
-
-//Fonction qui set le moteur3
-void SetMotor3(int speed, boolean reverse)
-{
-  analogWrite(motor3_enablePin, speed);
-  digitalWrite(motor3_in1Pin, ! reverse);
-  digitalWrite(motor3_in2Pin, reverse);
-}
- 
-//Fonction qui set le moteur4
-void SetMotor4(int speed, boolean reverse)
-{
-  analogWrite(motor4_enablePin, speed);
-  digitalWrite(motor4_in1Pin, ! reverse);
-  digitalWrite(motor4_in2Pin, reverse);
-}
-
 
 // callback for sending data
 void sendData(){
