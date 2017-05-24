@@ -83,17 +83,13 @@ void setup() {
 }
 
 void loop() {
-  delay(100);
-}
-
-// callback for received data
-void receiveData(int byteCount){
-  // Clear buffer ?
-  while(Wire.available()) {
-    number = Wire.read();
-    Serial.println(number);
+  //delay(100);
+  
+  if (number != 0)
+  {
     switch (number) {
       case forward:
+        Serial.println("Go forward");
         forwardRobot();
         break;
       case backward:
@@ -121,6 +117,21 @@ void receiveData(int byteCount){
         }
         break;
     }
+    number = 0;
+  }
+    
+}
+
+// callback for received data
+void receiveData(int byteCount){
+  // Clear buffer ?
+  while(Wire.available()) {
+    if (number != 0)
+    {
+      number = Wire.read();
+      Serial.print("Received data : ");
+      Serial.println(number);
+    }
   }
 }
 
@@ -133,8 +144,14 @@ void ActivateMagnet()
 }
 
 void forwardRobot(){
+  Serial.println("Move forward");
   moveRobot(255, 255, 255, 255, false, true, false, false);
+  Serial.print("Millis : ");
+  Serial.println(millis());
   delay(2000);
+  Serial.print("Millis 2 : ");
+  Serial.println(millis());
+  Serial.println("Stop robot");
   stopRobot();
 }
 
