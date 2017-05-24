@@ -43,7 +43,9 @@ enum actions {
   backward = 2,
   left = 3,
   right = 4,
-  stopping = 5
+  stopping = 5,
+  enableMagnet = 6,
+  disableMagnet = 7
 };
 
 void setup() {
@@ -83,8 +85,7 @@ void setup() {
 }
 
 void loop() {
-  //delay(100);
-  
+  delay(100);
   if (number != 0)
   {
     switch (number) {
@@ -103,6 +104,12 @@ void loop() {
         break;
       case stopping:
         stopRobot();
+        break;
+      case enableMagnet:
+        ActivateMagnet();
+        break;
+      case disableMagnet:
+        DisableMagnet();
         break;
       default:
         //int distance = sensor.getDistance(); //Calculate the distance in centimeters and store the value in a variable
@@ -126,20 +133,25 @@ void loop() {
 void receiveData(int byteCount){
   // Clear buffer ?
   while(Wire.available()) {
-    if (number != 0)
-    {
-      number = Wire.read();
-      Serial.print("Received data : ");
-      Serial.println(number);
-    }
+    number = Wire.read();
+    Serial.print("Received data : ");
+    Serial.println(number);
   }
 }
 
 void ActivateMagnet()
 {
+  Serial.println("Activate magnet");
   digitalWrite(electroaimant, HIGH);
-  delay(1000);
   servoMagnet.write(90);
+  delay(1000);
+}
+
+void DisableMagnet()
+{
+  Serial.println("Deactivate magnet");
+  digitalWrite(electroaimant, LOW);
+  servoMagnet.write(0);
   delay(1000);
 }
 
