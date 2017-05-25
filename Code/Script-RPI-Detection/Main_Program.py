@@ -29,6 +29,9 @@ bus = smbus.SMBus(1)
 address = 0x04
 isGrabbed=False
 threadFinished = True
+target = False
+centreCercle = [0,0]
+distance = 100
 ''' END Global Variable  '''
 
 camera = PiCamera()
@@ -85,12 +88,14 @@ def Sonar(mutexSonar):
       elapsed = stop-start
       # Distance pulse travelled in that time is time
       # multiplied by the speed of sound (cm/s)
+      global distance
       distance = elapsed * 34300
       # That was the distance there and back so halve the value
       distance = distance / 2
-      print "Distance : %.1f" % distance
+      #print "Distance : %.1f" % distance
       # Reset GPIO settings
       GPIO.cleanup()
+      
     return distance
 
 
@@ -99,6 +104,9 @@ def Camera(mutexVideo, mutexSonar):
     for frame in camera.capture_continuous(rawCapture, format="bgr", use_video_port=True):
             image = frame.array
             global isGrabbed
+            global distance
+            global target
+            global centreCercle
             '''=
             # 1 - Reconnaitre une cannette avec la couleur
             '''
@@ -145,27 +153,33 @@ def Camera(mutexVideo, mutexSonar):
             '''
             # 2 - Get la position de la canette sur l ecran
             '''
-            #Centre de l'ecran
-            centerX = resolutionX / 2
-            centerY = resolutionY / 2
             
+            #print distance
+            aller_chercher()
+            '''
             if centreCercle == [0,0]:
-                    print "no target"
+                    #print "no target"
+                    target = False
+                    recherche()
                     
             elif(centreCercle[0] < centerX-40):
+                    target=True
                     #Canette a gauche
-                    cv2.putText(image, "Gauche", (150, 230), font, 0.5, (255,255,255),2,cv2.LINE_AA)
+                    #cv2.putText(image, "Gauche", (150, 230), font, 0.5, (255,255,255),2,cv2.LINE_AA)
                     writeNumber(Actions.LEFT.value)
 
             elif(centreCercle[0] > centerX+40):
+                    target=True
                     #Canette a droite
-                    cv2.putText(image, "Droite", (150, 230), font, 0.5, (255,255,255),2,cv2.LINE_AA)			
+                    #cv2.putText(image, "Droite", (150, 230), font, 0.5, (255,255,255),2,cv2.LINE_AA)		
                     writeNumber(Actions.RIGHT.value)
 
             elif(centreCercle[0] > centerX-40 and centreCercle[0] < centerX+40 and isGrabbed == False):
                     #Canette au centre
-                    cv2.putText(image, "Avancer", (150, 230), font, 0.5, (255,255,255),2,cv2.LINE_AA)
+                    target=True
+                    #cv2.putText(image, "Avancer", (150, 230), font, 0.5, (255,255,255),2,cv2.LINE_AA)
                     writeNumber(Actions.FORWARD.value)
+            '''
                     
             '''
             # 3 - Check si la canette est suffisament proche pour etre attrape ((w*h)carre> 26000pixels)
@@ -182,6 +196,52 @@ def Camera(mutexVideo, mutexSonar):
                     global breakcamera
                     breakcamera.resolution = (600, 400)
                     cv2.destroyAllWindows()
+
+def recherche():
+    global distance
+    global target
+    #pattern de recherche
+    if(target==False):
+        if(distance>15):
+            writeNumber(Actions.FORWARD.value)
+
+        elif(distance<=15):
+            writeNumber(Actions.LEFT.value)
+        
+def aller_chercher():
+    global distance
+    global target
+    global centreCercle
+    global resolutionX
+    global resolutionY
+    
+    #Centre de l'ecran
+    centerX = resolutionX / 2
+    centerY = resolutionY / 2
+    
+    if centreCercle == [0,0]:
+            #print "no target"
+            target = False
+            recherche()
+                    
+    elif(centreCercle[0] < centerX-40):
+            target=True
+            #Canette a gauche
+            #cv2.putText(image, "Gauche", (150, 230), font, 0.5, (255,255,255),2,cv2.LINE_AA)
+            writeNumber(Actions.LEFT.value)
+
+    elif(centreCercle[0] > centerX+40):
+            target=True
+            #Canette a droite
+            #cv2.putText(image, "Droite", (150, 230), font, 0.5, (255,255,255),2,cv2.LINE_AA)		
+            writeNumber(Actions.RIGHT.value)
+
+    elif(centreCercle[0] > centerX-40 and centreCercle[0] < centerX+40 and isGrabbed == False):
+            #Canette au centre
+            target=True
+            #cv2.putText(image, "Avancer", (150, 230), font, 0.5, (255,255,255),2,cv2.LINE_AA)
+            writeNumber(Actions.FORWARD.value)
+
 
 #Interrupt Signal
 halt = False
