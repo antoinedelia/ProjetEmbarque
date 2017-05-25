@@ -36,7 +36,12 @@ Durant notre quatrième année d'études dans l'école d'ingénieurs informatiqu
 
 #### Schémas électriques
 
-Lien vers le schéma électronique des moteurs : https://circuits.io/circuits/4988732
+![Schémas Circuits](https://github.com/antoinedelia/ProjetEmbarque/blob/master/Conception/Circuits.PNG?raw=true)
+
+
+
+Il est également possible d'effectuer une simulation à cette adresse : https://circuits.io/circuits/4977161-schematisation-du-robot-exia-cesi-a4
+
 
 #### Conception UML
 
