@@ -31,19 +31,14 @@ for frame in camera.capture_continuous(rawCapture, format="bgr", use_video_port=
 
         sensitivity = 15
         hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
-        lower_white = np.array([0,0,255-sensitivity], dtype=np.uint8)
-        upper_white = np.array([255,sensitivity,255], dtype=np.uint8)
-        threshw=cv2.inRange(hsv, lower_white, upper_white)
-        
-        #lower = np.array([76,31,4],dtype="uint8")
-        #upper = np.array([225,88,50], dtype="uint8")
-        #upper = np.array([210,90,70], dtype="uint8")
+        lower_white = np.array([0,0,0], dtype=np.uint8)
+        upper_white = np.array([0,0,255], dtype=np.uint8)
 
-        #thresh = cv2.inRange(blur, lower, upper)
-        #thresh2 = thresh.copy()
+        # Threshold the HSV image to get only white colors
+        thresh = cv2.inRange(hsv, lower_white, upper_white)
 
         # find contours in the threshold image
-        image, contours,hierarchy = cv2.findContours(threshw,cv2.RETR_LIST,cv2.CHAIN_APPROX_SIMPLE)
+        image, contours,hierarchy = cv2.findContours(thresh,cv2.RETR_LIST,cv2.CHAIN_APPROX_SIMPLE)
 
         # finding contour with maximum area and store it as best_cnt
         max_area = 0
@@ -58,10 +53,11 @@ for frame in camera.capture_continuous(rawCapture, format="bgr", use_video_port=
         M = cv2.moments(best_cnt)
         cx,cy = int(M['m10']/M['m00']), int(M['m01']/M['m00'])
         #if best_cnt>1:
-        cv2.circle(blur,(cx,cy),10,(0,0,255),-1)
+        #cv2.circle(blur,(cx,cy),10,(0,0,255),-1)
+        
         # show the frame
         cv2.imshow("Frame", blur)
-        cv2.imshow('thresh',threshw)
+        cv2.imshow('thresh',thresh)
         key = cv2.waitKey(1) & 0xFF
  
 	# clear the stream in preparation for the next frame

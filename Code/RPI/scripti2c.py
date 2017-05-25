@@ -8,6 +8,8 @@ class Actions(Enum):
     LEFT = 3
     RIGHT = 4
     STOP = 5
+    ENABLEMAGNET = 6
+    DISABLEMAGNET = 7
 
 bus = smbus.SMBus(1)
 
@@ -25,8 +27,8 @@ while True:
     var = input("Enter 1-9:")
     if not var:
         continue
-    writeNumber(Actions.FORWARD.value)
-    print "RPI: hi Arduino, I sent you ", Actions.FORWARD.value
+    writeNumber(var)
+    print "RPI: hi Arduino, I sent you ", var
     time.sleep(1)
     number = readNumber()
     print "Arduino: Hey RPI, I received a digit ", number
