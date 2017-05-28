@@ -1,4 +1,4 @@
-# import the necessary packages
+    # import the necessary packages
 from picamera.array import PiRGBArray
 from picamera import PiCamera
 from threading import Thread
@@ -118,8 +118,13 @@ def Camera(mutexVideo, mutexSonar):
             lower_yellow=np.array([20,100,100],dtype=np.uint8)
             upper_yellow=np.array([30,255,255],dtype=np.uint8)
 
+            if(isGrabbed == False):
+                threshw=cv2.inRange(hsv, lower_yellow, upper_yellow)
+            else:
+                threshw=cv2.inRange(hsv, lower_red, upper_red)
+
             #threshw=cv2.inRange(hsv, lower_red, upper_red)
-            threshw=cv2.inRange(hsv, lower_yellow, upper_yellow)
+            #threshw=cv2.inRange(hsv, lower_yellow, upper_yellow)
 
             # find contours in the threshold image
             image, contours,hierarchy = cv2.findContours(threshw,cv2.RETR_LIST,cv2.CHAIN_APPROX_SIMPLE)
@@ -139,9 +144,32 @@ def Camera(mutexVideo, mutexSonar):
                     cv2.rectangle(blur,(tx,ty),(tx+tw,ty+th),(0,255,255),2)
 
                     if tw*th > 26000:
+                        if(isGrabbed == False):
                             print"attraper la canette"
+                            writeNumber(Actions.STOP.value)
+                            time.sleep(1)
                             writeNumber(Actions.ENABLEMAGNET.value)
                             isGrabbed = True
+                            time.sleep(2)
+                            print "Retour zone"
+                            writeNumber(Actions.BACKWARD.value)
+                            time.sleep(1)
+                            writeNumber(Actions.STOP.value)
+                            time.sleep(1)
+                        else:
+                            print"relacher la canette"
+                            writeNumber(Actions.STOP.value)
+                            time.sleep(1)
+                            writeNumber(Actions.DISABLEMAGNET.value)
+                            isGrabbed = False
+                            time.sleep(2)
+                            writeNumber(Actions.BACKWARD.value)
+                            time.sleep(1)
+                            writeNumber(Actions.LEFT.value)
+                            time.sleep(1)
+                            writeNumber(Actions.STOP.value)
+                            time.sleep(1)
+                            print "Recherche canette"
                     
             # finding centroids of best_cnt and draw a circle there
             M = cv2.moments(best_cnt)
@@ -156,31 +184,7 @@ def Camera(mutexVideo, mutexSonar):
             
             #print distance
             aller_chercher()
-            '''
-            if centreCercle == [0,0]:
-                    #print "no target"
-                    target = False
-                    recherche()
-                    
-            elif(centreCercle[0] < centerX-40):
-                    target=True
-                    #Canette a gauche
-                    #cv2.putText(image, "Gauche", (150, 230), font, 0.5, (255,255,255),2,cv2.LINE_AA)
-                    writeNumber(Actions.LEFT.value)
-
-            elif(centreCercle[0] > centerX+40):
-                    target=True
-                    #Canette a droite
-                    #cv2.putText(image, "Droite", (150, 230), font, 0.5, (255,255,255),2,cv2.LINE_AA)		
-                    writeNumber(Actions.RIGHT.value)
-
-            elif(centreCercle[0] > centerX-40 and centreCercle[0] < centerX+40 and isGrabbed == False):
-                    #Canette au centre
-                    target=True
-                    #cv2.putText(image, "Avancer", (150, 230), font, 0.5, (255,255,255),2,cv2.LINE_AA)
-                    writeNumber(Actions.FORWARD.value)
-            '''
-                    
+            
             '''
             # 3 - Check si la canette est suffisament proche pour etre attrape ((w*h)carre> 26000pixels)
             '''	
@@ -201,6 +205,7 @@ def recherche():
     global distance
     global target
     #pattern de recherche
+    print distance
     if(target==False):
         if(distance>15):
             writeNumber(Actions.FORWARD.value)
@@ -244,14 +249,6 @@ def aller_chercher():
 
 
 #Interrupt Signal
-halt = False
-def stopAll(signum, frame):
-	print "Interrupt!!"
-	global halt
-	halt = True
-	mutexSonar.set()
-	mutexVideo.set()
-signal.signal(signal.SIGINT, stopAll)
 
 """Thread"""
 
@@ -261,12 +258,15 @@ tSonar = threading.Thread(target=Sonar, args=([mutexSonar]))
 try:
         tScan.start()
 	tSonar.start()
-	
-	while not halt:
-		continue
-	print "[HALT] Main thread"
         
 except Exception as ex:
-		print ex
+    print ex
+except KeyboardInterrupt:
+    print "Attempting to close threads"
+    mutexSonar.clear()
+    mutexVideo.clear()
+    tScan.join()
+    tSonar.join()
+    print "Threads successfully closed"
 
 
