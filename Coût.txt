@@ -1,0 +1,21 @@
+arduino 20€
+raspberry pi 40€
+picamera:22€
+memoire:11,70 €
+chassis:24,50€
+2x L293D :6.40€
+Telemetre ultrasonic rangefinder: 1.25€
+resistor : 0,75€
+Powerbank :Coolreall 17,99€
+accumulateur: 31,58€
+chargeur:16,80 €
+circuit imprimé: 6€
+kit d'isolement:0,90 € 
+eletro aimant: 10,20 €
+servo moteur :4,95 €
+
+
+prix de revient = 215.02 €
+prix + main d'oeuvre (20%): 258,06 €
+prix + maind'oeuvre (40%) : 301,10€
+
