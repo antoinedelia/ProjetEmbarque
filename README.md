@@ -65,5 +65,19 @@ _Diagramme d'activités de gestion des obstacles_
 ##### Diagramme de classes
 
 ![Diagramme de classes](https://github.com/antoinedelia/ProjetEmbarque/blob/master/Conception/UML/DiagrammeClasses.jpg?raw=true)
+0
 
-#### Use cases
+### Avantages & Inconvénients
+
+#### Avantages
+
+ * Robot autonome
+ * Grande mobilité (petite taille, accès à des zones étroites)
+ * Maintenance et entretient facile
+ * Prix faible pour une production en masse
+
+#### Inconvénients
+
+ * Fonctionne uniquement sur terrain plat
+ * Utilisateur nécessaire à la recharge et à la mise en marche du robot
+ * Ergonomie
