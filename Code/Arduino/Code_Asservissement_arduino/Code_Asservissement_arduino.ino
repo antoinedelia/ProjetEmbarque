@@ -34,7 +34,8 @@ enum actions {
   right = 4,
   stopping = 5,
   enableMagnet = 6,
-  disableMagnet = 7
+  disableMagnet = 7,
+  nothing = 8
 };
 
 SharpIR sensor(GP2YA41SK0F, A3);
@@ -111,8 +112,16 @@ void loop() {
       case disableMagnet:
         DisableMagnet();
         break;
+      case nothing:
+        int distance = sensor.getDistance();
+        if(distance > 3){
+          forwardRobot();
+        }
+        else{
+          rightRobot(2); 
+        }
       default:
-        //int distance = sensor.getDistance(); //Calculate the distance in centimeters and store the value in a variable
+        // //Calculate the distance in centimeters and store the value in a variable
         int distance = 10;
         if(distance > 5){
           forwardRobot(); 

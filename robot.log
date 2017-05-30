@@ -1,0 +1,5047 @@
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 100
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 49.8229861259
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3342.27801561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3342.27801561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3342.27801561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3342.27801561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.6526055336
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.6526055336
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.6526055336
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.6526055336
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 56.4060807228
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 56.4060807228
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 56.4060807228
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 56.4060807228
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 54.9136400223
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 54.9136400223
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 54.9136400223
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 54.9136400223
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Looking for another can
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.47091960907
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.47091960907
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3368.20559502
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3368.20559502
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3368.20559502
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3368.20559502
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3368.20559502
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 4.26878929138
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 4.26878929138
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 4.26878929138
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 4.26878929138
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 4.26878929138
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3367.12613106
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3367.12613106
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3367.12613106
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.2294001579
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.2294001579
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.2294001579
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.2294001579
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.2294001579
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 50.0437855721
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 50.0437855721
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 50.0437855721
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 50.0437855721
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.2457556725
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.2457556725
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.2457556725
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.2457556725
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 45.6523299217
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 45.6523299217
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 45.6523299217
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 45.6523299217
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 46.3392615318
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 100
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Looking for another can
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 10.6678843498
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 10.6678843498
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 10.6678843498
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.22095966339
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.22095966339
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.22095966339
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.22095966339
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.47091960907
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.47091960907
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.47091960907
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.47091960907
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.63625001907
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.63625001907
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.63625001907
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.63625001907
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 8.88513326645
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 8.88513326645
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 8.88513326645
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 8.88513326645
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 161.6538167
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 161.6538167
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 161.6538167
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 161.6538167
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.04922676086
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.04922676086
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.04922676086
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.04922676086
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.87873077393
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.87873077393
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.87873077393
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.87873077393
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.7980298996
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.7980298996
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.7980298996
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.7980298996
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.91660737991
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.91660737991
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.91660737991
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.91660737991
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.98611831665
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.98611831665
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.98611831665
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.98611831665
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 166.903936863
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 166.903936863
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 166.903936863
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.45811462402
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.45811462402
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3362.03547716
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3362.03547716
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3362.03547716
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3362.03547716
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3362.03547716
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 10.0872635841
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Looking for another can
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 30.887389183
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3368.14017296
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3386.67914867
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3366.33697748
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3363.45840693
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3363.45840693
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3363.45840693
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3363.45840693
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3378.1211257
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3378.1211257
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 26.4959335327
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 26.4959335327
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 26.4959335327
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 26.4959335327
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 25.5677580833
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 25.5677580833
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 25.5677580833
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 25.5677580833
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 25.5677580833
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.2925662994
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.2925662994
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.2925662994
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.2925662994
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 16.3268923759
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 16.3268923759
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 16.3268923759
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 16.3268923759
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 16.3268923759
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3375.54922104
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3375.54922104
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 100
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 100
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.960392952
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.960392952
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.960392952
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.960392952
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.960392952
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3369.56310272
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3369.56310272
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3369.56310272
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3369.56310272
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 54.8645734787
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 54.8645734787
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 54.8645734787
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 54.8645734787
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 52.6484012604
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 52.6484012604
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 52.6484012604
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 48.6535668373
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 48.6535668373
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 48.6535668373
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 48.6535668373
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 48.6535668373
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 51.6016483307
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 51.6016483307
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 51.6016483307
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 51.6016483307
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.1548838615
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.1548838615
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.1548838615
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.1548838615
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 54.0754199028
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 54.0754199028
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 54.0754199028
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 54.0754199028
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.7886600494
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.7886600494
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.7886600494
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.7886600494
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 55.7886600494
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 59.3705177307
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 59.3705177307
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 59.3705177307
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 59.3705177307
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 100
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 23.118519783
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 23.118519783
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 23.118519783
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 23.118519783
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.68655347824
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.68655347824
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.68655347824
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.68655347824
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 14.9898290634
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 14.9898290634
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 14.9898290634
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 14.9898290634
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 14.4909858704
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 14.4909858704
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 14.4909858704
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 14.4909858704
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 14.4909858704
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Looking for another can
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.8936314583
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.8936314583
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.7055430412
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.963142395
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 100
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3323.20748568
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3323.20748568
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.3202719688
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.3202719688
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.3202719688
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.3202719688
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.9440951347
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.9440951347
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.9440951347
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.9440951347
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.9440951347
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3303.29873562
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3303.29873562
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3303.29873562
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.33076334
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.33076334
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.33076334
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.33076334
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3335.8134985
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3335.8134985
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 34.3016028404
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.15499925613
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.15499925613
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.15499925613
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.15499925613
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.15499925613
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.82966423035
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.82966423035
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.82966423035
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.82966423035
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 8.62753391266
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 8.62753391266
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 8.62753391266
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 8.62753391266
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.10238218307
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.10238218307
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.10238218307
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.10238218307
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.10238218307
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3316.58759117
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 25.4859805107
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3359.88881588
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3359.88881588
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3359.88881588
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3359.88881588
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3362.66925335
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3362.66925335
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3362.66925335
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3362.66925335
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3362.66925335
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3378.15792561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3378.15792561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3378.15792561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3378.15792561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 25.759935379
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 25.759935379
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 25.759935379
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 25.759935379
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 26.3078451157
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 26.3078451157
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 26.3078451157
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 26.3078451157
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3361.10730171
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Looking for another can
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 28.9656162262
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 28.9656162262
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 28.9656162262
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 28.9656162262
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3334.4927907
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 24.0098953247
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 24.0098953247
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.3974223137
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.3974223137
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.3974223137
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.3974223137
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3354.6427846
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3354.6427846
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3354.6427846
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3354.6427846
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3354.6427846
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 23.817718029
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 23.817718029
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 23.817718029
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 23.817718029
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3398.25885296
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3398.25885296
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3398.25885296
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3398.25885296
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3398.25885296
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.3988771439
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.3988771439
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.3988771439
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Looking for another can
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 23.4619855881
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 23.4619855881
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.6033210754
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3335.17972231
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3335.17972231
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3335.17972231
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3335.17972231
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 21.6792345047
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 21.6792345047
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 21.6792345047
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 21.6792345047
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 22.8936314583
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3360.25272608
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3360.25272608
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3360.25272608
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3360.25272608
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 30.0655245781
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 30.0655245781
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 30.0655245781
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Go to start zone
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3431.86943531
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3431.86943531
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3431.86943531
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3431.86943531
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.6223106384
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.6223106384
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.6223106384
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.6223106384
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 116.651618481
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 116.651618481
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 116.651618481
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 116.651618481
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 116.651618481
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3417.99178123
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.84709644318
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.92015790939
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.92015790939
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.82966423035
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 10.1731300354
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Looking for another can
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 100
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 43.0313587189
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 43.0313587189
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 43.0313587189
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 43.0313587189
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 43.0313587189
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.76095438
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.76095438
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.76095438
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.76095438
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 181.873321533
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 181.873321533
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 181.873321533
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 181.873321533
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 181.873321533
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 45.6523299217
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 45.6523299217
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 45.6523299217
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 45.6523299217
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 44.6750879288
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 185.238468647
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 185.238468647
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 41.2608742714
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 41.2608742714
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 41.2608742714
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 41.2608742714
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.340716362
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.340716362
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.340716362
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.340716362
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.340716362
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.9440951347
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.9440951347
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.9440951347
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.9440951347
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.052719593
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.052719593
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.052719593
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.052719593
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.9289765358
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.9289765358
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.4166297913
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.4166297913
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.4166297913
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.4166297913
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 32.4166297913
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 38.7216806412
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 38.7216806412
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 38.7216806412
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 40.2182102203
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 40.2182102203
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 40.2182102203
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.0212454796
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.0212454796
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.0212454796
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.5778713226
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.5778713226
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.5778713226
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.5778713226
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 33.5778713226
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 37.1106624603
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 37.1106624603
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 37.1106624603
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 35.9289765358
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 36.3419532776
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 36.3419532776
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 37.2496843338
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 42.0173168182
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 42.0173168182
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 121.251606941
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 121.251606941
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 121.251606941
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 121.251606941
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 40.4226541519
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 40.4226541519
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 40.4226541519
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 40.4226541519
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 40.4226541519
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 38.6726140976
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 38.6726140976
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 38.6726140976
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 38.6726140976
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 40.2509212494
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 40.2509212494
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 40.2509212494
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 40.2509212494
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 38.5867476463
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 38.5867476463
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 38.5867476463
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 38.5867476463
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 38.5867476463
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 36.9062185287
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 36.9062185287
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 36.9062185287
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 36.9062185287
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3368.70852709
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Looking for another can
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3308.93729925
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3308.93729925
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3275.85827112
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3275.85827112
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3263.88194561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3263.88194561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3263.88194561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3263.88194561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3263.88194561
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3310.41338444
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3310.41338444
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3310.41338444
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3262.94150352
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3262.94150352
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3262.94150352
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3262.94150352
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3262.94150352
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3276.23444796
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3276.23444796
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3276.23444796
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3276.23444796
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3313.17746639
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3313.17746639
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3298.78461361
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3298.78461361
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3298.78461361
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3340.71606398
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3340.71606398
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3340.71606398
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3261.17510796
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3295.20275593
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3295.20275593
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.33598661423
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.33598661423
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 5.33598661423
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3308.97409916
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3308.97409916
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3255.4833889
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 166.715848446
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 455.022680759
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 455.022680759
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 455.022680759
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 455.022680759
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 455.022680759
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3313.9788866
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3313.9788866
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3313.9788866
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3310.96129417
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3310.96129417
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3310.96129417
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 335.880935192
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 335.880935192
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 335.880935192
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 335.880935192
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 335.880935192
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 325.81820488
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 325.81820488
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 325.81820488
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 325.81820488
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 578.502726555
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 578.502726555
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 578.502726555
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 578.502726555
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 668.850588799
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 668.850588799
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 668.850588799
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 668.850588799
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 566.89440012
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 566.89440012
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 566.89440012
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 566.89440012
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 566.89440012
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 533.520972729
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 533.520972729
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 533.520972729
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 533.520972729
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 302.74875164
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 302.74875164
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 302.74875164
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 302.74875164
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Looking for another can
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.92015790939
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 10.3039741516
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3290.29610157
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3290.29610157
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3290.29610157
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3290.29610157
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 126.137816906
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 126.137816906
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.63393640518
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.63393640518
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 7.78522491455
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Looking for another can
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Looking for another can
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 269.13408041
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 269.13408041
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 268.017816544
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 268.017816544
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 268.017816544
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 268.017816544
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 268.017816544
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 253.440964222
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 253.440964222
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 253.440964222
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 253.440964222
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 231.266975403
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 231.266975403
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.20691776276
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.20691776276
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.20691776276
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being caught
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 6
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Go to start zone
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3301.69998407
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 3301.69998407
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.24371767044
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.24371767044
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.24371767044
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 6.24371767044
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 51.2459158897
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 51.2459158897
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 51.2459158897
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 51.2459158897
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 276.338684559
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 276.338684559
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 276.338684559
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 276.338684559
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 272.634160519
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 272.634160519
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 272.634160519
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 272.634160519
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 49.8188972473
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 49.8188972473
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 49.8188972473
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 49.8188972473
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 57.1788787842
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 57.1788787842
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 57.1788787842
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 57.1788787842
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 56.3529253006
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 56.3529253006
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 56.3529253006
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.19179916382
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 9.19179916382
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 63.5575294495
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 63.5575294495
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 63.5575294495
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 56.7004799843
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 56.7004799843
+INFO:root:Data sent to Arduino : 1
+INFO:root:No can/zone in field of view
+INFO:root:Distance : 56.7004799843
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can/Zone is left side
+INFO:root:Data sent to Arduino : 3
+INFO:root:Can is being released
+INFO:root:Data sent to Arduino : 5
+INFO:root:Data sent to Arduino : 7
+INFO:root:Data sent to Arduino : 2
+INFO:root:Data sent to Arduino : 3
+INFO:root:Data sent to Arduino : 5
+INFO:root:Looking for another can
+INFO:root:Can/Zone is center
+INFO:root:Data sent to Arduino : 1
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
+INFO:root:Can/Zone is right side
+INFO:root:Data sent to Arduino : 4
