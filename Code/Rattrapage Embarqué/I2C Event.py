@@ -1,0 +1,3 @@
+class ICEvent:
+    isGrabbed=False
+    
