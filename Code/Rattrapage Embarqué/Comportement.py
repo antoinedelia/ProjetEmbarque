@@ -7,6 +7,9 @@ class Comportement(Enum):
     ENABLEMAGNET = 6
     DISABLEMAGNET = 7
 
+    def move():
+        raise NotImplementedError('Abstract class so it\'s not implemented')
+
     def EsquiveObstacle(mutexSonar):
         while True:
         # Use BCM GPIO references

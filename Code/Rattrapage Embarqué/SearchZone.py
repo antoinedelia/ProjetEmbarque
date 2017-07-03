@@ -2,7 +2,7 @@ class SearchZone(Comportement):
 
     interconnection = IntercoI2C() # Instanciates the interconnection class to write the actions to the Arduino
 
-    def recherche():
+    def move():
         global distance
         global target
         #pattern de recherche
