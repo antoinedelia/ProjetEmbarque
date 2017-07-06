@@ -3,6 +3,7 @@ from picamera.array import PiRGBArray
 from picamera import PiCamera
 from threading import Thread
 from enum import Enum
+from ReachCan import ReachCan.move
 import cv2
 import numpy as np
 import multiprocessing
@@ -16,7 +17,6 @@ import signal
 '''global variable'''
 resolutionX = 320
 resolutionY = 240
-
 
 threadFinished = True
 target = False
@@ -86,34 +86,6 @@ def Camera(mutexVideo, mutexSonar):
                     cnt2 = contours[np.argmax(areas)]
                     tx,ty,tw,th = cv2.boundingRect(cnt2)
                     cv2.rectangle(blur,(tx,ty),(tx+tw,ty+th),(0,255,255),2)
-
-                    if tw*th > 26000:
-                        if(isGrabbed == False):
-                            print"attraper la canette"
-                            writeNumber(Actions.STOP.value)
-                            time.sleep(1)
-                            writeNumber(Actions.ENABLEMAGNET.value)
-                            isGrabbed = True
-                            time.sleep(2)
-                            print "Retour zone"
-                            writeNumber(Actions.BACKWARD.value)
-                            time.sleep(1)
-                            writeNumber(Actions.STOP.value)
-                            time.sleep(1)
-                        else:
-                            print"relacher la canette"
-                            writeNumber(Actions.STOP.value)
-                            time.sleep(1)
-                            writeNumber(Actions.DISABLEMAGNET.value)
-                            isGrabbed = False
-                            time.sleep(2)
-                            writeNumber(Actions.BACKWARD.value)
-                            time.sleep(1)
-                            writeNumber(Actions.LEFT.value)
-                            time.sleep(1)
-                            writeNumber(Actions.STOP.value)
-                            time.sleep(1)
-                            print "Recherche canette"
                     
             # finding centroids of best_cnt and draw a circle there
             M = cv2.moments(best_cnt)
@@ -127,7 +99,7 @@ def Camera(mutexVideo, mutexSonar):
             '''
             
             #print distance
-            aller_chercher()
+            ReachCan.move()
             
             '''
             # 3 - Check si la canette est suffisament proche pour etre attrape ((w*h)carre> 26000pixels)
@@ -145,10 +117,6 @@ def Camera(mutexVideo, mutexSonar):
                     breakcamera.resolution = (600, 400)
                     cv2.destroyAllWindows()
 
-
-        
-
-
 #Interrupt Signal
 
 """Thread"""
@@ -157,7 +125,7 @@ tScan = threading.Thread(target=Camera, args=([mutexVideo, mutexSonar]))
 tSonar = threading.Thread(target=Sonar, args=([mutexSonar]))
 
 try:
-        tScan.start()
+    tScan.start()
 	tSonar.start()
         
 except Exception as ex:
