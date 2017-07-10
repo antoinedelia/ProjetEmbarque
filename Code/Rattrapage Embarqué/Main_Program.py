@@ -58,7 +58,7 @@ def Camera(mutexVideo, mutexSonar):
             # 2 - Get la position de la canette sur l ecran
             '''
             
-            ReachCan.move()
+            ManageCan.move()
             
             '''
             # 3 - Check si la canette est suffisament proche pour etre attrape ((w*h)carre> 26000pixels)

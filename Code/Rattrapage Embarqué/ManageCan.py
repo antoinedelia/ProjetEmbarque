@@ -1,4 +1,4 @@
-class ReachCan(Comportement):
+class ManageCan(Comportement):
 
     def move():
         global distance
