@@ -35,28 +35,6 @@ class ReachCan(Comportement):
                 writeNumber(Actions.FORWARD.value)
         elif tw*th > 26000:                        
                 if(isGrabbed == False):
-                        print"attraper la canette"
-                        writeNumber(Actions.STOP.value)
-                        time.sleep(1)
-                        writeNumber(Actions.ENABLEMAGNET.value)
-                        isGrabbed = True
-                        time.sleep(2)
-                        print "Retour zone"
-                        writeNumber(Actions.BACKWARD.value)
-                        time.sleep(1)
-                        writeNumber(Actions.STOP.value)
-                        time.sleep(1)
+                        GrabCan.move()
                 else:
-                        print"relacher la canette"
-                        writeNumber(Actions.STOP.value)
-                        time.sleep(1)
-                        writeNumber(Actions.DISABLEMAGNET.value)
-                        isGrabbed = False
-                        time.sleep(2)
-                        writeNumber(Actions.BACKWARD.value)
-                        time.sleep(1)
-                        writeNumber(Actions.LEFT.value)
-                        time.sleep(1)
-                        writeNumber(Actions.STOP.value)
-                        time.sleep(1)
-                        print "Recherche canette"
+                        DropCan.move()
